@@ -5,4 +5,6 @@ Creating the project:
 3. Install node modules: npm install
 
 Project setup
-'''npm install
+'''
+npm install
+'''
